@@ -1,4 +1,4 @@
-# Ignete Challenges - #01
+# Ignite Challenges - #01
 ### Desafio do curso Ignite - Rocketseat
 <br>
 <br>
