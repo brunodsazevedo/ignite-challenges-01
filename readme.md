@@ -24,6 +24,8 @@ Para executar os testes da aplicação, basta exxecutar o seguinte comando:
 
 O Resultado esperado será como demonstrado em imagem abaixo:
 
+https://user-images.githubusercontent.com/58368716/154674510-8b77e248-1971-44d5-9718-713abcf9aacd.mp4
+
 
 
 Para executar a aplicação em tela, basta executar o comando:
@@ -31,5 +33,10 @@ Para executar a aplicação em tela, basta executar o comando:
 `yarn dev`
 
 Com o servidor em execução no servidor `localhost:8080`, será possível ver a aplicação em funcionamento.
+
+https://user-images.githubusercontent.com/58368716/154674558-6e58fc8a-acb0-4e43-99a1-e1b129a1409c.mp4
+
+
+
 
 Finalizado com sucesso o desafio :)
